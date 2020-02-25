@@ -1,2 +1,2 @@
 # Credo
-A PLAI agent
+An open source PLAI agent

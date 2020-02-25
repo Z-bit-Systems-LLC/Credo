@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Credo", "Credo\Credo.csproj", "{2F00FE15-0E21-423A-B19B-1B9828F6F60A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{F2DB934B-7BBE-4C2B-B8ED-F6DE180721E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{2F00FE15-0E21-423A-B19B-1B9828F6F60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F00FE15-0E21-423A-B19B-1B9828F6F60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F00FE15-0E21-423A-B19B-1B9828F6F60A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2DB934B-7BBE-4C2B-B8ED-F6DE180721E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2DB934B-7BBE-4C2B-B8ED-F6DE180721E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2DB934B-7BBE-4C2B-B8ED-F6DE180721E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2DB934B-7BBE-4C2B-B8ED-F6DE180721E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
