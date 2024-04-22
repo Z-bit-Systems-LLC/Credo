@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Credo", "src\Credo\Credo.csproj", "{724FAD40-6879-4290-8E0D-D3F4FAE1E806}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "src\Adapter\Adapter.csproj", "{E175186B-1179-4F11-AFE5-DCA1F9E8370D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{724FAD40-6879-4290-8E0D-D3F4FAE1E806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724FAD40-6879-4290-8E0D-D3F4FAE1E806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724FAD40-6879-4290-8E0D-D3F4FAE1E806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724FAD40-6879-4290-8E0D-D3F4FAE1E806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E175186B-1179-4F11-AFE5-DCA1F9E8370D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E175186B-1179-4F11-AFE5-DCA1F9E8370D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E175186B-1179-4F11-AFE5-DCA1F9E8370D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E175186B-1179-4F11-AFE5-DCA1F9E8370D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
